@@ -16,5 +16,4 @@ public class UserController {
 public String dashboard() {
 		return "Welcome to DASHBOARD Page";
 	}
-
 }
